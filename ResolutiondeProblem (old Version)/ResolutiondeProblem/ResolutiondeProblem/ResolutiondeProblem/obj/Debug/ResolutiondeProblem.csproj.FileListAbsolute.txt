@@ -1,0 +1,11 @@
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\bin\Debug\ResolutiondeProblem.exe.config
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\bin\Debug\ResolutiondeProblem.exe
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\bin\Debug\ResolutiondeProblem.pdb
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.csprojAssemblyReference.cache
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Equation1.resources
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Equation2.resources
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Resolutiondeproblem.resources
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Properties.Resources.resources
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.csproj.GenerateResource.cache
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.exe
+C:\Users\test\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.pdb

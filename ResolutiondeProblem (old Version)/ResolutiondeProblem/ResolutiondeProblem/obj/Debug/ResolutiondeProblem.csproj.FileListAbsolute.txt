@@ -1,0 +1,26 @@
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\bin\Debug\ResolutiondeProblem.exe.config
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\bin\Debug\ResolutiondeProblem.exe
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\bin\Debug\ResolutiondeProblem.pdb
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.csproj.AssemblyReference.cache
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Equation1.resources
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Equation2.resources
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Resolutiondeproblem.resources
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Properties.Resources.resources
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.csproj.GenerateResource.cache
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.csproj.CoreCompileInputs.cache
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.exe
+C:\Users\lecon\Downloads\ResolutiondeProblem\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.pdb
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\bin\Debug\ResolutiondeProblem.exe.config
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\bin\Debug\ResolutiondeProblem.exe
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\bin\Debug\ResolutiondeProblem.pdb
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.csproj.AssemblyReference.cache
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Equation1.resources
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Equation2.resources
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Resolutiondeproblem.resources
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.Properties.Resources.resources
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.csproj.GenerateResource.cache
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.csproj.CoreCompileInputs.cache
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.exe
+C:\Users\lecon\Downloads\ResolutiondeProblemthebest (1)\ResolutiondeProblem (old Version)\ResolutiondeProblem\ResolutiondeProblem\obj\Debug\ResolutiondeProblem.pdb
